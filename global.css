@@ -1,0 +1,418 @@
+.kon_gl {
+    font-family: Arial, Verdana;
+    font-size: 14px;
+}
+
+.kon_1 {
+	width: 12%;
+    font-size: 28px;
+    float: left;
+}
+
+.kon_2 {
+    width: 87%;
+    float: left;
+}
+
+.kon_3_wewn {
+    width: 45%;
+    text-align: right;
+    position: relative;
+    float: right;
+}
+
+.kon_4a{
+    width: 100%;
+    background-color: rgb(192,192,192);
+    border-style: solid;
+    border-width: 2px 2px 2px 2px;
+}
+
+.kon_4{
+    width: 40%;
+    height: 100px;
+    float: left;
+}
+
+.kon_5_wewn{
+    height: 50%;
+    background-color: rgb(255,255,255);
+}
+
+.kon_6_wewn{
+    height: 50%;
+    background-color: rgb(255,255,255);
+    border-style: solid;
+    border-width: 2px 0px 2px 0px;
+}
+
+.kon_7{
+    height: 102px;
+    width: 40%;
+    border-style: solid;
+    border-width: 0px 2px 0px 2px;
+    float: left;
+}
+
+.kon_8{
+    height: 102px;
+    float: left;
+}
+
+.nie_skr{
+    font-size: 10px;
+    font-weight: normal;
+    vertical-align: top;
+}
+
+.ram{
+    width: 100%;
+    border-style: solid;
+    border-width: 0px 2px 0px 2px;
+    border-color: rgb(191,126,0); 
+}
+
+.kon_9{
+    font-style: italic;
+    text-align: right;
+    padding-right: 15px;
+    background-color: rgb(191,126,0); 
+}
+
+.kon_10{
+    font-size: 30px;
+    padding-left: 15px;
+    background-color: rgb(191,126,0); 
+}
+
+.kon_11{
+    font-size: 26px;
+    padding-left: 250px;
+    background-color: rgb(191,126,0); 
+}
+
+.kon_12{
+    font-size: 26px;
+    padding-left: 150px;
+    background-color: rgb(191,126,0); 
+}
+
+.kon_13{
+    background-color: rgb(191,126,0);
+    height: 50px;
+
+}
+
+.kon_14_wewn{
+    font-size: 26px;
+    width: 360px;
+    padding-left: 230px;
+    float: left;
+}
+
+.kon_15_wewn{
+    font-size: 14px;
+    background-color: rgb(255,255,255);
+    width: 220px;
+    height: 50px;
+    float: left;
+}
+
+.kon_16{
+    background-color: rgb(191,126,0); 
+}
+
+.kon_17_wewn{
+    padding-left: 15px;
+}
+
+.kon_18_wewn{
+    margin-left: 30px;
+    width: 48%;
+    float: left;
+}
+
+.kon_19_wewn{
+    width: 48%;
+    float: left;
+}
+
+.kon_20{
+    width: 100%;
+    border-style: solid;
+    border-width: 2px 2px 0px 2px; 
+    background-color: rgb(230,230,230); 
+}
+
+.kon_21_wewn{
+    width: 15%;
+    padding-left: 10px;
+    float: left; 
+}
+
+.kon_22_wewn{
+    width: 84%;
+    float: left; 
+}
+
+.kon_23{
+    width: 100%;
+    border-style: solid;
+    border-width: 2px 2px 0px 2px; 
+    background-color: rgb(255,255,255); 
+}
+
+.kon_24_wewn{
+    width: 4%;
+    margin-top: 5px;
+    padding-left: 10px;
+    float: left; 
+}
+
+.kon_25_wewn{
+    width: 21%;
+    margin-top: 5px;
+    padding-right: 25px;
+    float: left; 
+}
+
+.kon_26_wewn{
+    width: 90%;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    float: left; 
+}
+
+.kon_27{
+    width: 100%;
+    border-style: solid;
+    border-width: 2px 2px 0px 2px; 
+    background-color: rgb(255,255,255); 
+}
+
+.kon_28_wewn{
+    padding: 5px 15px 5px 15px;
+    }
+
+.kon_29{
+    width: 100%;
+    border-style: solid;
+    border-width: 5px 2px 5px 2px; 
+    height: 5px;
+    }
+
+.kon_30{
+    width: 100%;
+    border-style: solid;
+    border-width: 0px 2px 0px 2px;
+    background-color: rgb(230,230,230); 
+    }
+
+.kon_31_wewn{
+    font-size: 30px;
+    font-weight: bold;
+    padding: 5px 0px 5px 30px;
+}
+
+.kon_32_wewn{
+    width: 95%;
+    height: 50px;
+    border-style: solid;
+    border-width: 2px 0px 0px 2px;
+    background-color: rgb(250,250,250); 
+    float: right; 
+}
+
+.kon_33_wewn{
+    width: 25%; 
+    color: rgb(250,250,250);
+    margin-top: 5px; 
+    float: left;
+}
+
+.kon_34_wewn{
+    width: 25%;
+    font-weight: normal; 
+    margin-top: 5px;  
+    float: left;
+}
+
+.kon_35{
+    width: 100%;
+    border-style: solid;
+    border-width: 0px 2px 2px 2px;
+    background-color: rgb(230,230,230); 
+    }
+
+.kon_36{
+    width: 100%;
+    border-style: solid;
+    border-width: 0px 2px 2px 2px;
+    background-color: rgb(230,230,230); 
+    }
+
+.kon_37_wewn{
+    font-size: 30px;
+    padding: 5px 0px 5px 30px;
+}
+
+.kon_38_wewn{
+    width: 95%;
+    height: 50px;
+    border-style: solid;
+    border-width: 2px 0px 0px 2px;
+    background-color: rgb(250,250,250); 
+    float: right; 
+}
+
+.kon_39_wewn{
+    width: 38%;
+    height: 50px;
+    border-style: solid;
+    border-width: 0px 2px 0px 0px;
+    float: left; 
+}
+
+.kon_40_wewn{
+    width: 32%;
+    height: 50px;
+    border-style: solid;
+    border-width: 0px 2px 0px 0px;
+    float: left; 
+}
+
+.kon_41_wewn{
+    height: 50px;
+    float: left; 
+}
+
+.kon_42_wewn{
+    width: 20%;
+    height: 50px;
+    border-style: solid;
+    border-width: 0px 2px 0px 0px;
+    float: left; 
+}
+
+.kon_43_wewn{
+    width: 42%;
+    height: 50px;
+    border-style: solid;
+    border-width: 0px 2px 0px 0px;
+    float: left; 
+}
+
+.kon_44_wewn{
+    height: 50px;
+    float: left; 
+}
+
+.kon_45_wewn{
+    width: 27%;
+    height: 50px;
+    border-style: solid;
+    border-width: 0px 2px 0px 0px;
+    float: left; 
+}
+
+.kon_46_wewn{
+    width: 48%;
+    height: 50px;
+    border-style: solid;
+    border-width: 0px 2px 0px 0px;
+    float: left; 
+}
+
+.kon_47_wewn{
+    width: 12%;
+    height: 50px;
+    border-style: solid;
+    border-width: 0px 2px 0px 0px;
+    float: left; 
+}
+
+.kon_48_wewn{
+    height: 50px;
+    float: left; 
+}
+
+.kon_49_wewn{
+    width: 40%;
+    height: 50px;
+    border-style: solid;
+    border-width: 0px 2px 0px 0px;
+    float: left; 
+}
+
+.kon_50_wewn{
+    width: 18%;
+    height: 50px;
+    border-style: solid;
+    border-width: 0px 2px 0px 0px;
+    float: left; 
+}
+
+.kon_51_wewn{
+    height: 50px;
+    float: left; 
+}
+
+.kon_52{
+    width: 20%;
+    font-size: 30px;
+    font-weight: bold;
+    height: 50px;
+    margin-top: 100px;
+    border-style: solid;
+    border-width: 2px 2px 2px 2px;
+    float: right; 
+}
+
+.kon_53_wewn{
+    width: 65%;
+    height: 50px;
+    border-style: solid;
+    text-align: center;
+    border-width: 0px 2px 0px 0px;
+    float: left; 
+}
+
+.kon_54_wewn{
+    height: 50px;
+    text-align: center;
+    float: left; 
+}
+
+.cz_str{
+    font-weight: normal;
+    font-size: 14px;     
+}
+
+.kwadrat{
+    width: 15px;
+    height: 15px;
+    border: 2px solid;
+    margin-right: 10px;
+    box-shadow: 2px 2px 0px 1px black;
+    float: left; 
+}
+
+.odstep {
+    margin-top: 5px;
+}
+
+.cz_bold{
+    font-weight: bold;   
+}
+
+.cz_normal{
+    font-weight: normal;   
+}
+
+.p_10{
+    padding-left: 10px;   
+}
+
+.clear {
+    clear: both;
+}
